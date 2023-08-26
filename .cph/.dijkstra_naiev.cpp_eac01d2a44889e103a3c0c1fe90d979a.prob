@@ -1,0 +1,1 @@
+{"name":"Local: dijkstra_naiev","url":"e:\\batch 3\\algrothoem\\module 14\\dijkstra_naiev.cpp","tests":[{"id":1692945918365,"input":"5 7\n1 2 3\n1 2 10\n2 3 1\n3 4 2\n4 5 7\n2 4 3\n2 5 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\batch 3\\algrothoem\\module 14\\dijkstra_naiev.cpp","group":"local","local":true}
